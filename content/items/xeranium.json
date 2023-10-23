@@ -1,0 +1,14 @@
+
+{
+  "cost": 3,
+  "type": "material",
+  "name": "Xeranium",
+  "description": "A combination of metaglass and plastanium, used for making Advanced liquid related content."
+  "color": "00A4E6CFF",
+  "research": {
+    "parent": "plastanium",
+    "requirements": [
+      "xeranium/1"
+    ]
+  }
+}
