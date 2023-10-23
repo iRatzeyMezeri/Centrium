@@ -12,7 +12,7 @@
     "floating": true,
     "requirements": [
         {"item": "phase-fabric", "amount": 2},
-        {"item": "xeranium", "amount": 5}
+        {"item": "xentranium", "amount": 5}
     ],
     "category": "liquid",
     "speed": 0.3,
