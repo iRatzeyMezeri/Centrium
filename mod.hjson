@@ -1,6 +1,6 @@
-name: "Eina"
-displayName: "Eina Mod" //what displays in the mod selection menu
+name: "Centrium"
+displayName: "Centrium Mod"
 author: "InxieRatZey"
-description: "A simple mod combined from my old ideas"
+description: "A simple generic mod blah blah blah"
 version: "0.1"
 minGameVersion: "146"
