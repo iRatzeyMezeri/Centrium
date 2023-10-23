@@ -1,7 +1,7 @@
 {
   "type": "OreBlock",
   "oreDefault": true,
-  "oreScale": 20,
-  "oreThreshold": 1,
+  "oreScale": 22.45,
+  "oreThreshold": 0.87,
   "itemDrop": "dottrium"
 }
