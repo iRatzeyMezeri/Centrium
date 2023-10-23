@@ -1,0 +1,13 @@
+{
+  "cost": 2,
+  "type": "material",
+  "name": "Dottrium",
+  "description": "A powerful material mainly used in defensive content"
+  "color": "847DCDFF",
+  "research": {
+    "parent": "thorium",
+    "requirements": [
+      "dottrium/1"
+    ]
+  }
+}
