@@ -1,6 +1,6 @@
 {
     "type": "Conduit",
-    "name": "Xeract Conduit",
+    "name": "Xenact Conduit",
     "description": "A highly durable conduit capable of transporting liquids at extremely fast speeds",
     "hasLiquids": true,
     "liquidCapacity": 50,
