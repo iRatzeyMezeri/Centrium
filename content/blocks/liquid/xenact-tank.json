@@ -5,7 +5,8 @@
   "liquidCapacity": 8500,
   "hasItems": false,
   "hasLiquids": true,
-  "size": 5,
+  "OutputsLiquid": true,
+  "size": 6,
   "group": "liquids",
     "requirements": [
         {"item": "phase-fabric", "amount": 100},
