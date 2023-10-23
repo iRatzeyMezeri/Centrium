@@ -1,0 +1,6 @@
+name: "Eina"
+displayName: "Eina Mod" //what displays in the mod selection menu
+author: "InxieRatZey"
+description: "A simple mod combined from my old ideas"
+version: "0.1"
+minGameVersion: "146"
