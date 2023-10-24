@@ -5,6 +5,7 @@
   "liquidCapacity": 8500,
   "health": 8000,
   "solid": true,
+  "InputsLiquid": true,
   "hasItems": false,
   "hasLiquids": true,
   "OutputsLiquid": true,
