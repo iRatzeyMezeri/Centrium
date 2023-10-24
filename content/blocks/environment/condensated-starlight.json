@@ -1,0 +1,11 @@
+{
+  "type": "Floor",
+  "emitLight": true,
+  "lightRadius": 5,
+  "lightColor": "e7f5ffff",
+  "liquidDrop": "condensated-starlight",
+  "IsLiquid" : true,
+  "attributes": {
+    "heat": 5
+  },
+}
