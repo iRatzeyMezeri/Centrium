@@ -3,9 +3,8 @@
   "emitLight": true,
   "lightRadius": 5,
   "lightColor": "e7f5ffff",
-  "liquidDrop": "condensated-starlight",
+  "liquidDrop": "liquid-condensated-starlight",
   "IsLiquid" : true,
-  "attributes": {
-    "heat": 5
-  },
+  "status" : "melting",
+  "statusDuration" : 150
 }
