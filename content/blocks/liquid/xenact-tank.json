@@ -6,7 +6,7 @@
   "hasItems": false,
   "hasLiquids": true,
   "OutputsLiquid": true,
-  "size": 6,
+  "size": 4,
   "group": "liquids",
     "requirements": [
         {"item": "phase-fabric", "amount": 100},
