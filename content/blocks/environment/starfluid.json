@@ -2,7 +2,7 @@
   "type": "Floor",
   "emitLight": true,
   "lightRadius": 5,
-  "lightColor": "7be4ea",
+  "lightColor": "0a0042",
   "liquidDrop": "liquid-starfluid",
   "IsLiquid" : true,
   "status" : "starlight-mayhem",
