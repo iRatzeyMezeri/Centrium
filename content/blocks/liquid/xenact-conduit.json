@@ -8,6 +8,7 @@
     "update": true,
     "rotate": true,
     "solid": false,
+    "health": 540,
     "group": "liquids",
     "floating": true,
     "requirements": [
