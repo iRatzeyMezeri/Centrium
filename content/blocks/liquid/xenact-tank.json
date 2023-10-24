@@ -3,6 +3,8 @@
   "name": "Xenact Tank",
   "description": "is able to store massive amounts of liquids",
   "liquidCapacity": 8500,
+  "health": 8000,
+  "solid": true,
   "hasItems": false,
   "hasLiquids": true,
   "OutputsLiquid": true,
