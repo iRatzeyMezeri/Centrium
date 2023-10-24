@@ -8,10 +8,10 @@
   "OutputsLiquid": true,
   "size": 4,
   "group": "liquids",
-    "requirements": [
-        {"item": "phase-fabric", "amount": 100},
-        {"item": "xentranium", "amount": 150}
-    ],
-    "category": "effect",
-    "research": "liquid-tank"
+  "requirements": [
+      {"item": "phase-fabric", "amount": 100},
+      {"item": "xentranium", "amount": 150}
+  ],
+  "category": "effect",
+  "research": "liquid-tank"
 }
