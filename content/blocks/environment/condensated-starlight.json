@@ -2,9 +2,9 @@
   "type": "Floor",
   "emitLight": true,
   "lightRadius": 5,
-  "lightColor": "e7f5ffff",
+  "lightColor": "7be4ea",
   "liquidDrop": "liquid-condensated-starlight",
   "IsLiquid" : true,
-  "status" : "melting",
+  "status" : "starlight-mayhem",
   "statusDuration" : 150
 }
