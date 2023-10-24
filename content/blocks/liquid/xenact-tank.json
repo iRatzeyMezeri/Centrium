@@ -1,7 +1,7 @@
 {
-  "type": "LiquidBlock",
+  "type": "LiquidRouter",
   "name": "Xenact Tank",
-  "description": "is able to store massive amounts of liquids",
+  "description": "An armored liquid container able to store massive amounts of liquids",
   "liquidCapacity": 8500,
   "health": 8000,
   "solid": true,
