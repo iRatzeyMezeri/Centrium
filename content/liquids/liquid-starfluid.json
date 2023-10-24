@@ -1,11 +1,11 @@
 {
     "type": "liquid",
-    "name": "Condensated Starlight",
+    "name": "Starfluid",
     "temperature": 2,
     "viscosity": 0,
     "explosiveness": 2,
     "heatCapacity": 4
     "effect": "melting",
-    "color": "7be4ea",
-    "description": "A condensated form of pure starborn power"
+    "color": "2d50ba",
+    "description": "A condensed form of pure starborn power"
 }
