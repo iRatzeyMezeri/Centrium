@@ -3,7 +3,7 @@
   "emitLight": true,
   "lightRadius": 5,
   "lightColor": "7be4ea",
-  "liquidDrop": "liquid-condensated-starlight",
+  "liquidDrop": "liquid-starfluid",
   "IsLiquid" : true,
   "status" : "starlight-mayhem",
   "statusDuration" : 150
