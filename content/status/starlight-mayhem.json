@@ -1,0 +1,13 @@
+{
+  "name": "Starlight Mayhem",
+  "speedMultiplier": 0.40,
+  "reloadMultiplier": 0.20,
+  "damage": 10,
+  "transitionDamage": 240,
+  "opposites": [
+    "overdrive"
+  ],
+  "affinities": [
+    "melting"
+  ],
+}
