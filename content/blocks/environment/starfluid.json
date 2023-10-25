@@ -6,5 +6,6 @@
   "liquidDrop": "liquid-starfluid",
   "IsLiquid" : true,
   "status" : "starlight-mayhem",
-  "statusDuration" : 150
+  "statusDuration" : 150,
+  "variants" : 3
 }
