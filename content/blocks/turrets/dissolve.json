@@ -35,7 +35,7 @@
   },
   "requirements": [
     "dottrium/250",
-    "surge alloy/200"
+    "surge-alloy/200"
   ],
   "category": "turret",
   "research": "needle"
