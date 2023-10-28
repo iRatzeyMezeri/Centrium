@@ -3,7 +3,7 @@
   "name": "Dissolve",
   "description": "Shoots extreme amounts of dust at your enemies",
   "outlineIcon": false,
-  "size": 4,
+  "size": 2,
   "health": 2440,
   "reload": 1,
   "range": 120,
