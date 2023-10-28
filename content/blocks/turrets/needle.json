@@ -1,5 +1,7 @@
 {
   "type": "PowerTurret",
+  "name": "Needle",
+  "description": "Very powerful for its size, shoots out small electric lances that home into enemies.",
   "size": 1,
   "health": 720,
   "reload": 12,
