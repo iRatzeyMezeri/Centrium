@@ -1,0 +1,38 @@
+{
+  "type": "GenericCrafter",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFlame"
+      }
+    ]
+  },
+  "size": 4,
+  "hasPower": true,
+  "hasItems": true,
+  "itemCapacity": 50,
+  "craftTime": 60,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "none",
+  "consumes": {
+    "power": 1,
+    "items": [
+      "silicon/4",
+      "plastanium/10",
+      "metaglass/8"
+    ]
+  },
+  "requirements": [
+    "surge-alloy/300",
+    "plastanium/250",
+    "silicon/250",
+    "dottrium/200"
+  ],
+  "category": "crafting",
+  "research": "plastanium-compressor",
+  "outputItem": "xentranium/5"
+}
