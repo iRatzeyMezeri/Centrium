@@ -1,11 +1,10 @@
 {
   "name": "Dottric Wall",
-  "description": "An extremely durable wall that can deflect projectiles"
+  "description": "An extremely durable wall that can deflect projectiles",
   "type": "Wall",
   "chanceDeflect": 50.0,
   "health": 1100,
   "size": 1,
-  },
   "requirements": [
     "dottrium/20",
     "thorium/15",
