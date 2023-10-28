@@ -1,0 +1,15 @@
+{
+  "name": "Large Dottric Wall",
+  "description": "An extremely durable large wall that can deflect projectiles"
+  "type": "Wall",
+  "chanceDeflect": 50.0,
+  "health": 1100,
+  "size": 2,
+  },
+  "requirements": [
+    "dottrium/80",
+    "thorium/60",
+  ],
+  "category": "defense",
+  "research": "dottric-wall"
+}
