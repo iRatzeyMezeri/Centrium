@@ -40,7 +40,7 @@ generator: {
 }
 
 alwaysUnlocked: true
-sectorSize: 10
+sectorSize: 0.4
 orbitSpacing: 12
 radius: 5
 minZoom: 1
