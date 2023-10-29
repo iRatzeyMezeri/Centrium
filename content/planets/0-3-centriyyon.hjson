@@ -4,7 +4,7 @@ mesh: {
   type: NoiseMesh
   seed: 44
   divisions: 5
-  color1: 63bad9
+  color1: 1b51a9
   color2: 3e3869
   radius: 1
   octaves: 3
@@ -40,10 +40,10 @@ generator: {
 }
 
 alwaysUnlocked: true
-sectorSize: 0.8
+sectorSize: 4
 orbitSpacing: 12
 radius: 5
-minZoom: 0.7
+minZoom: 1
 drawOrbit: true
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
