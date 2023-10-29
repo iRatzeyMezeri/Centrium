@@ -4,9 +4,8 @@ mesh: {
   type: NoiseMesh
   seed: 44
   divisions: 5
-  color1: 8edce8
+  color1: 0c0a1c
   color2: 5e5981  
-  color3: 050022
   radius: 5
   octaves: 3
   persistence: 0.8
@@ -65,6 +64,4 @@ allowWaves: true
 icon: planet
 defaultCore: core-nucleus
 launchCandidates: []
-hiddenItems: [
-  beryllium, tungsten, oxide, carbide
-]
+hiddenItems: []
