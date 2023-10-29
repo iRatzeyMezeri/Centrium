@@ -3,10 +3,10 @@ localizedName: Centriyyon
 mesh: {
   type: NoiseMesh
   seed: 44
-  divisions: 5
-  color1: 1b51a9
-  color2: 3e3869
-  radius: 1
+  divisions: 12
+  color1: 8edce8
+  color2: 5e5981
+  radius: 5
   octaves: 3
   persistence: 0.8
   scale: 0.4
