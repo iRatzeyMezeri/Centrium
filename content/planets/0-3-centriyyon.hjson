@@ -3,7 +3,7 @@ localizedName: Centriyyon
 mesh: {
   type: NoiseMesh
   seed: 44
-  divisions: 12
+  divisions: 5
   color1: 8edce8
   color2: 5e5981
   radius: 5
