@@ -40,13 +40,13 @@ generator: {
 }
 
 alwaysUnlocked: true
-sectorSize: 4
+sectorSize: 10
 orbitSpacing: 12
 radius: 5
 minZoom: 1
 drawOrbit: true
 atmosphereRadIn: 0
-atmosphereRadOut: 0.3
+atmosphereRadOut: 1
 accessible: true
 updateLighting: true
 sectorSeed: 36
