@@ -9,7 +9,7 @@ mesh: {
   radius: 1
   octaves: 3
   persistence: 0.8
-  scale: 0.7
+  scale: 0.4
   mag: 1.5
 }
 
@@ -40,9 +40,9 @@ generator: {
 }
 
 alwaysUnlocked: true
-sectorSize: 1
+sectorSize: 0.8
 orbitSpacing: 12
-radius: 1.5
+radius: 5
 minZoom: 0.7
 drawOrbit: true
 atmosphereRadIn: 0
