@@ -5,7 +5,8 @@ mesh: {
   seed: 44
   divisions: 5
   color1: 8edce8
-  color2: 5e5981
+  color2: 5e5981  
+  color3: 050022
   radius: 5
   octaves: 3
   persistence: 0.8
@@ -49,7 +50,7 @@ atmosphereRadIn: 0
 atmosphereRadOut: 0.7
 accessible: true
 updateLighting: true
-sectorSeed: 36
+sectorSeed: -1
 bloom: false
 visible: true
 parent: sun
