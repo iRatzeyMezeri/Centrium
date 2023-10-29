@@ -52,6 +52,8 @@ updateLighting: true
 sectorSeed: 36
 bloom: false
 visible: true
+parent: sun
+solarSystem: sun
 atmosphereColor: efecfcaa
 iconColor: 3e3869
 hasAtmosphere: true
