@@ -1,0 +1,11 @@
+{
+    "type": "battery",
+    "name": "Concentrated Starpower Battery",
+    "size": 1,
+    "category": "power",
+    "requirements": [
+        {"item": "ernium", "amount": 50}
+    ],
+    "consumes": 
+            { "powerBuffered": 1200 }
+}
