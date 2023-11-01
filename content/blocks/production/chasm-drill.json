@@ -4,7 +4,7 @@
   "type": "Drill",
   "size": 5,
   "tier": 8,
-  "drillTime": 40,
+  "drillTime": 4,
   "consumes": {
     "liquid": {
       "liquid": "liquid-starfluid",
