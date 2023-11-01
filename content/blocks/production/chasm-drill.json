@@ -1,10 +1,10 @@
 {
   "name": "Chasm Drill",
-  "description": "Collects ores with extremely speeds using the new delayering technology. Capable of mining ernium",
+  "description": "Collects ores on extreme speeds using the new delayering technology. Capable of mining ernium",
   "type": "Drill",
   "size": 5,
   "tier": 8,
-  "drillTime": 400,
+  "drillTime": 40,
   "consumes": {
     "liquid": {
       "liquid": "liquid-starfluid",
