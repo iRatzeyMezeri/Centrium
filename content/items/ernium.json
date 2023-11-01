@@ -1,0 +1,14 @@
+{
+  "hardness": 8,
+  "cost": 2,
+  "type": "material",
+  "name": "Ernium",
+  "description": "An extremely heavy metal used for electricity purposes"
+  "color": "1b51a9",
+  "research": {
+    "parent": "dottrium",
+    "requirements": [
+      "ernium/1"
+    ]
+  }
+}
