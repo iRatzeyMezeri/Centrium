@@ -7,5 +7,5 @@
         {"item": "ernium", "amount": 50}
     ],
     "consumes": 
-            { "powerBuffered": 1200 }
+            { "powerBuffered": 120000 }
 }
