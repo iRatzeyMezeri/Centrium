@@ -1,0 +1,25 @@
+{
+  "name": "Chasm Drill",
+  "description": "Collects ores with extremely speeds using the new delayering technology. Capable of mining ernium",
+  "type": "Drill",
+  "size": 5,
+  "tier": 8,
+  "drillTime": 400,
+  "consumes": {
+    "liquid": {
+      "liquid": "liquid-starfluid",
+      "amount": 0.5,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [
+      {"item": "dottrium", "amount": 200},
+      {"item": "surge-alloy", "amount": 400},
+      {"item": "thorium", "amount": 600},
+      {"item": "silicon", "amount": 300},
+      {"item": "graphite", "amount": 300}
+  ],
+  "category": "production",
+  "research": "blast-drill"
+}
