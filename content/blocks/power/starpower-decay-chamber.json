@@ -12,14 +12,15 @@
   "explosionDamage": 6400,
   "hasLiquids": true,
   "powerProduction": 140,
-  "itemDuration": 1,
-  "heating": 1,
+  "itemDuration": 300,
+  "heating": 0.01,
+  "smokeTreshold": 0.3,
+  "flashTreshold": 0.3,
+  "coolantPower": 1
+  "updateEffect": "smeltSmoke",
+  
   "consumes": {
-    "items": {
-      "items": [
-        "ernium/1"
-      ]
-    },
+    "item": "ernium",
     "liquid": {
       "liquid": "liquid-starfluid",
       "amount": 0.6
