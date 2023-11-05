@@ -1,6 +1,6 @@
 {
   "type": "NuclearReactor",
-  "name": "Starlight Fusion Chamber",
+  "name": "Starlight Decay Chamber",
   "description": "Uses Ernium to produce massive amounts of energy, Requires Starfluid to control the power. Explodes uncontrolled",
   "health": 1400,
   "itemCapacity": 50,
@@ -12,8 +12,8 @@
   "explosionDamage": 6400,
   "hasLiquids": true,
   "powerProduction": 140,
-  "itemDuration": 400,
-  "heating": 0.02,
+  "itemDuration": 1,
+  "heating": 1,
   "consumes": {
     "items": {
       "items": [
