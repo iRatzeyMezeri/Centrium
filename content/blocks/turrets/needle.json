@@ -12,7 +12,7 @@
   "rotateSpeed": 10,
   "shootSound": "sap",
   "consumes": {
-    "power": 5
+    "power": 10
   },
   "hasPower": true,
   "shootType": {
@@ -26,7 +26,7 @@
     "trailLength": 10,
     "trailWidth": 3,
     "lifetime": 40,
-    "damage": 62,
+    "damage": 112,
     "height": 13,
     "width": 13,
     "homingPower": 1,
@@ -35,8 +35,8 @@
     "backColor": "8e7dcdff"
   },
   "requirements": [
+    "dottrium/450",
     "thorium/240",
-    "dottrium/150",
     "silicon/100",
     "phase-fabric/80"
   ],
