@@ -26,7 +26,7 @@
     "trailLength": 10,
     "trailWidth": 2,
     "lifetime": 35,
-    "damage": 180,
+    "damage": 280,
     "height": 13,
     "width": 13,
     "homingPower": 0,
@@ -35,11 +35,11 @@
     "backColor": "8e7dcdff"
   },
   "requirements": [
-    "dottrium/650",
-    "thorium/450",
-    "surge-alloy/400",
-    "silicon/380",
-    "phase-fabric/380"
+    "dottrium/850",
+    "thorium/650",
+    "surge-alloy/600",
+    "silicon/580",
+    "phase-fabric/580"
   ],
   "category": "turret",
   "research": "needle"
