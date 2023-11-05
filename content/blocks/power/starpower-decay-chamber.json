@@ -1,7 +1,7 @@
 {
   "type": "NuclearReactor",
   "name": "Starpower Decay Chamber",
-  "description": "Uses Ernium to produce massive amounts of energy, Requires Starfluid to control the power. Explodes uncontrolled",
+  "description": "Uses Ernium to produce massive amounts of energy, Requires Starfluid to control the power. Explodes uncontrolled. [red] Listen to the Warning !",
   "health": 1400,
   "itemCapacity": 50,
   "size": 5,
@@ -13,11 +13,11 @@
   "explosionRadius": 80,
   "explosionDamage": 6400,
   "hasLiquids": true,
-  "powerProduction": 140,
+  "powerProduction": 220,
   "itemDuration": 300,
   "heating": 0.01,
-  "smokeTreshold": 0.3,
-  "flashTreshold": 0.3,
+  "smokeTreshold": 1,
+  "flashTreshold": 1,
   "coolantPower": 1
   "updateEffect": "smeltSmoke",
   
