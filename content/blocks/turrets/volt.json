@@ -9,10 +9,10 @@
   "range": 800,
   "inaccuracy": 0,
   "recoil": 1,
-  "rotateSpeed": 1,
+  "rotateSpeed": 0.2,
   "shootSound": "bolt",
   "consumes": {
-    "power": 44
+    "power": 52
   },
   "hasPower": true,
   "shootType": {
@@ -26,7 +26,7 @@
     "trailLength": 1,
     "trailWidth": 2,
     "lifetime": 100,
-    "damage": 1600,
+    "damage": 2200,
     "height": 13,
     "width": 13,
     "homingPower": 0,
