@@ -3,9 +3,9 @@
   "name": "Needle",
   "description": "Very powerful for its size, shoots out small electric lances that home into enemies.",
   "outlineIcon": false,
-  "size": 1,
+  "size": 3,
   "health": 720,
-  "reload": 12,
+  "reload": 6,
   "range": 220,
   "inaccuracy": 5,
   "recoil": 0.5,
@@ -26,7 +26,7 @@
     "trailLength": 10,
     "trailWidth": 3,
     "lifetime": 40,
-    "damage": 52,
+    "damage": 62,
     "height": 13,
     "width": 13,
     "homingPower": 1,
@@ -35,8 +35,10 @@
     "backColor": "8e7dcdff"
   },
   "requirements": [
-    "dottrium/50",
-    "thorium/80"
+    "thorium/240",
+    "dottrium/150",
+    "silicon/100",
+    "phase-fabric/80"
   ],
   "category": "turret",
   "research": "arc"
