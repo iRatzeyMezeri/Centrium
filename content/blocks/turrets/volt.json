@@ -1,0 +1,45 @@
+{
+  "type": "PowerTurret",
+  "name": "Volt",
+  "description": "Shoots electric orbs at your enemies",
+  "outlineIcon": false,
+  "size": 5,
+  "health": 4800,
+  "reload": 40,
+  "range": 800,
+  "inaccuracy": 0,
+  "recoil": 1,
+  "rotateSpeed": 1,
+  "shootSound": "bolt",
+  "consumes": {
+    "power": 44
+  },
+  "hasPower": true,
+  "shootType": {
+    "type": "BasicBulletType",
+    "sprite": "centrium-voltaorb",
+    "absorbable": true,
+    "shrinkY": 0.1,
+    "shrinkX": 0.1,
+    "speed": 15,
+    "trailColor": "408bc7",
+    "trailLength": 1,
+    "trailWidth": 2,
+    "lifetime": 100,
+    "damage": 1600,
+    "height": 13,
+    "width": 13,
+    "homingPower": 0,
+    "homingRange": 0,
+    "frontColor": "ffffffff",
+    "backColor": "1b51a9"
+  },
+  "requirements": [
+    "ernium/750",
+    "surge-alloy/700",
+    "dottrium/650",
+    "silicon/550"
+  ],
+  "category": "turret",
+  "research": "dissolve"
+}
