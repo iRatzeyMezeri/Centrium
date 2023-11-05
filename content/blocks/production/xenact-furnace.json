@@ -8,9 +8,6 @@
       {
         "type": "DrawDefault"
       },
-      {
-        "type": "DrawFlame"
-      }
     ]
   },
   "size": 4,
