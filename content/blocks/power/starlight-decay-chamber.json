@@ -18,13 +18,11 @@
     "items": {
       "liquid": "liquid-starfluid",
       "amount": 0.5
-      ]
     },
     "liquid": {
       "items": [
         "ernium/2"
       ]
-  
     }
   },
   "requirements": [
