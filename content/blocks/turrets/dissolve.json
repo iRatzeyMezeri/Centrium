@@ -3,16 +3,16 @@
   "name": "Dissolve",
   "description": "Shoots extreme amounts of dust at your enemies",
   "outlineIcon": false,
-  "size": 2,
-  "health": 2440,
+  "size": 5,
+  "health": 4440,
   "reload": 1,
-  "range": 120,
+  "range": 1200,
   "inaccuracy": 25,
   "recoil": 0.1,
-  "rotateSpeed": 8,
+  "rotateSpeed": 6,
   "shootSound": "bolt",
   "consumes": {
-    "power": 8
+    "power": 12
   },
   "hasPower": true,
   "shootType": {
@@ -25,8 +25,8 @@
     "trailColor": "8e7dcdff",
     "trailLength": 10,
     "trailWidth": 2,
-    "lifetime": 10,
-    "damage": 60,
+    "lifetime": 100,
+    "damage": 110,
     "height": 13,
     "width": 13,
     "homingPower": 0,
@@ -35,8 +35,11 @@
     "backColor": "8e7dcdff"
   },
   "requirements": [
-    "dottrium/250",
-    "surge-alloy/200"
+    "dottrium/650",
+    "thorium/450",
+    "surge-alloy/400",
+    "silicon/380",
+    "phase-fabric/380"
   ],
   "category": "turret",
   "research": "needle"
