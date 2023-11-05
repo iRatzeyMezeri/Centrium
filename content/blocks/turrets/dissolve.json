@@ -12,7 +12,7 @@
   "rotateSpeed": 6,
   "shootSound": "bolt",
   "consumes": {
-    "power": 12
+    "power": 28
   },
   "hasPower": true,
   "shootType": {
@@ -25,8 +25,8 @@
     "trailColor": "8e7dcdff",
     "trailLength": 10,
     "trailWidth": 2,
-    "lifetime": 100,
-    "damage": 110,
+    "lifetime": 4,
+    "damage": 180,
     "height": 13,
     "width": 13,
     "homingPower": 0,
