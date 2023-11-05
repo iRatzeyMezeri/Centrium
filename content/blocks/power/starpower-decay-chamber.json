@@ -36,5 +36,6 @@
     "xentranium/200"
   ],
   "category": "power",
-  "research": "thorium-reactor"
+  "research": "thorium-reactor",
+  "fuelItem": "etnium"
 }
