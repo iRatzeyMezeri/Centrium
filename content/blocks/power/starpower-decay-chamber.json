@@ -16,8 +16,8 @@
   "powerProduction": 220,
   "itemDuration": 300,
   "heating": 0.01,
-  "smokeTreshold": 1,
-  "flashTreshold": 1,
+  "smokeThreshold": 1,
+  "flashThreshold": 1,
   "coolantPower": 1
   "updateEffect": "smeltSmoke",
   
