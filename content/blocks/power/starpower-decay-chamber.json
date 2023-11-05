@@ -8,6 +8,8 @@
   "ambientSound": "laserCharge",
   "ambientSoundVolume": 1.15,
   "lightColor": "cbf0f0",
+  "coolColor": "041443",
+  "hotColor": "cbf0f0",
   "explosionRadius": 22,
   "explosionDamage": 6400,
   "hasLiquids": true,
