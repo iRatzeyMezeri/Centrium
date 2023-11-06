@@ -1,0 +1,12 @@
+{
+"difficulty": 10,
+"planet": "serpulo",
+"sector": 52,
+"research": {
+"parent": "nuclear-production-complex",
+"objectives": [
+"phase-weaver",
+"blast-drill"
+]
+}
+}
