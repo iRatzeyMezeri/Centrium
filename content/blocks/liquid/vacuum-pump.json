@@ -2,12 +2,9 @@
   "name": "Vacuum Pump",
   "description": "Extracts the liquids by pulling them in using vacuum technologies",
   "type": "Pump",
-  "hasLiquids": true,
-  "InputsLiquid": false,
-  "OutputsLiquid": true,
   "size": 2,
-  "pumpAmount": 0.1,
-  "liquidCapacity": 50,
+  "pumpAmount": 3,
+  "liquidCapacity": 120,
   "category": "liquid"
   "requirements": [      
       {"item": "xentranium", "amount": 200},
