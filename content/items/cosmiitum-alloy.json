@@ -1,0 +1,13 @@
+{
+  "cost": 2,
+  "type": "material",
+  "name": "Cosmiitum Alloy",
+  "description": "An alloy containing cosmic power. Do you need to advance this far?"
+  "color": "7155ca",
+  "research": {
+    "parent": "surge-alloy",
+    "requirements": [
+      "cosmiitum-alloy/1"
+    ]
+  }
+}
