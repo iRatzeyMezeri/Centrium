@@ -4,6 +4,8 @@
   "type": "Pump",
   "size": 2,
   "pumpAmount": 3,
+  "outputLiquids": true,
+  "consumes": {"power": 4},
   "liquidCapacity": 120,
   "category": "liquid"
   "requirements": [      
