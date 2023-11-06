@@ -13,3 +13,5 @@
       {"item": "graphite", "amount": 120},
       {"item": "titanium", "amount": 80}
   ],
+  "research": "impulse-pump"
+}
