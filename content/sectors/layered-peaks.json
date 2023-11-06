@@ -3,7 +3,7 @@
 "planet": "serpulo",
 "sector": 52,
 "research": {
-"parent": "nuclear-production-complex",
+"parent": "nuclearComplex",
 "objectives": [
 "phase-weaver",
 "blast-drill"
