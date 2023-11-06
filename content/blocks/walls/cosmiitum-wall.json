@@ -1,0 +1,12 @@
+{
+  "name": "Cosmiitum Wall",
+  "description": "The most durable of the durable",
+  "type": "Wall",
+  "health": 2100,
+  "size": 2,
+  "requirements": [
+    "cosmiitum-alloy/20",
+  ],
+  "category": "defense",
+  "research": "surge-wall"
+}
