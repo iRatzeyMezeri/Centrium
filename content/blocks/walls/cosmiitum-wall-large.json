@@ -1,0 +1,12 @@
+{
+  "name": "Cosmiitum Wall",
+  "description": "The most durable of the durable x2x2",
+  "type": "Wall",
+  "health": 8400,
+  "size": 2,
+  "requirements": [
+    "cosmiitum-alloy/80",
+  ],
+  "category": "defense",
+  "research": "cosmiitum-wall"
+}
