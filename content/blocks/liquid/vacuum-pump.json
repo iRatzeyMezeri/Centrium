@@ -7,3 +7,9 @@
   "pumpAmount": 0.1,
   "liquidCapacity": 50,
   "category": "liquid"
+  "requirements": [      
+      {"item": "xentranium", "amount": 200},
+      {"item": "phase-fabric", "amount": 160},
+      {"item": "graphite", "amount": 120},
+      {"item": "titanium", "amount": 80}
+  ],
