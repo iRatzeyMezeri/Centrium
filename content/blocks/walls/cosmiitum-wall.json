@@ -3,7 +3,7 @@
   "description": "The most durable of the durable",
   "type": "Wall",
   "health": 2100,
-  "size": 2,
+  "size": 1,
   "requirements": [
     "cosmiitum-alloy/20",
   ],
