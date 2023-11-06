@@ -1,0 +1,11 @@
+{
+    "type": "liquid",
+    "name": "Construct String",
+    "temperature": 1,
+    "viscosity": 0,
+    "explosiveness": 0,
+    "heatCapacity": 8
+    "effect": "melting",
+    "color": "f07837",
+    "description": "A dissolved form of Phase Fabric"
+}
