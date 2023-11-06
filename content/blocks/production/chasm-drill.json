@@ -5,7 +5,7 @@
   "hasPower": true,
   "size": 5,
   "tier": 8,
-  "drillTime": 4,
+  "drillTime": 12,
   "consumes": {
     "power": 14
     "liquid": {
