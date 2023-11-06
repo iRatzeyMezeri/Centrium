@@ -1,13 +1,13 @@
 {
   "name": "Vacuum Pump",
-  "description": "Extracts the liquids by pulling them in using vacuum technologies",
+  "description": "Extracts liquids by pulling them in using vacuum cleaner technologies",
   "type": "Pump",
   "size": 2,
   "pumpAmount": 3,
-  "outputLiquids": true,
+  "outputsLiquid": true,
   "consumes": {"power": 4},
   "liquidCapacity": 120,
-  "category": "liquid"
+  "category": "liquid",
   "requirements": [      
       {"item": "xentranium", "amount": 200},
       {"item": "phase-fabric", "amount": 160},
