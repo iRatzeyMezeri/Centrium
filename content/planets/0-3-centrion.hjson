@@ -1,11 +1,11 @@
-localizedName: Centriyyon
+localizedName: Centrion
 
 mesh: {
   type: NoiseMesh
   seed: 44
   divisions: 5
-  color1: 0c0a1c
-  color2: 5e5981  
+  color1: dcfbfb
+  color2: 050022 
   radius: 5
   octaves: 3
   persistence: 0.8
@@ -13,6 +13,18 @@ mesh: {
   mag: 1.5
 }
 
+mesh: {
+  type: NoiseMesh
+  seed: 32
+  divisions: 5
+  color1: 8e7dcd
+  color2: 00000000  
+  radius: 5
+  octaves: 1
+  persistence: 0.8
+  scale: 0.1
+  mag: 1.2
+}
 
 generator: {
   min: 1
