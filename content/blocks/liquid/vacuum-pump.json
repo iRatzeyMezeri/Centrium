@@ -1,4 +1,6 @@
 {
+  "name": "Vacuum Pump",
+  "description": "Extracts the liquids by pulling them in using vacuum technologies",
   "type": "Pump",
   "hasLiquids": true,
   "InputsLiquid": false,
