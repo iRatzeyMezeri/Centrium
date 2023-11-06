@@ -1,4 +1,4 @@
-localizedName: Centrion
+localizedName: Settrion
 
 mesh: {
   type: NoiseMesh
@@ -6,6 +6,7 @@ mesh: {
   divisions: 5
   color1: dcfbfb
   color2: 050022 
+  color3: 8e7dcd
   radius: 5
   octaves: 3
   persistence: 0.8
