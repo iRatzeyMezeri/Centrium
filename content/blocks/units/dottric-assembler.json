@@ -1,0 +1,36 @@
+{
+  "type": "UnitFactory",
+  "size": 3,
+  "configurable": true,
+  "category": "units",
+  "consumes": {
+    "power": 8
+  },
+  "plans": [
+    {
+      "unit": "dottric-assasin",
+      "requirements": [
+        "silicon/120",
+        "dottrium/100",
+        "thorium/60"
+      ],
+      "time": 1200
+    },
+    {
+      "unit": "dottric-deconstruct",
+      "requirements": [
+        "silicon/120",
+        "dottrium/100",
+        "thorium/60"
+      ],
+      "time": 1200
+    }
+  ],
+  "research": "ground-factory",
+  "requirements": [
+    "silicon/800",
+    "dottrium/500",
+    "thorium/240",
+    "surge-alloy/120"
+  ]
+}
