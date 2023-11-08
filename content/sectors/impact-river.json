@@ -1,0 +1,14 @@
+{
+"name": "Impacted River",
+"difficulty": 10,
+"planet": "serpulo",
+"sector": 245,
+"research": {
+"parent": "navalFortress",
+"objectives": [
+"chasm-drill",
+"xenact-furnace",
+"dottric-assembler"
+]
+}
+}
