@@ -12,8 +12,8 @@
   "flying": false,
   "speed": 2,
   "hitSize": 8,
-  "health": 640,
-  "armor": 8,
+  "health": 540,
+  "armor": 2,
   "weapons": [
     {
       "name": "dottric-deconstruct-weapon",
@@ -29,7 +29,7 @@
         "type": "basicBulletType",
         "sprite": "centrium-voltaorb",
         "damage": 1,
-        "splashDamage": 262,
+        "splashDamage": 282,
         "splashDamageRadius": 24,
         "pierce": false,
         "homing": true,
