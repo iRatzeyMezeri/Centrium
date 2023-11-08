@@ -28,7 +28,7 @@
       "bullet": {
         "type": "basicBulletType",
         "sprite": "centrium-voltaorb",
-        "damage": 112,
+        "damage": 142,
         "pierceBuilding": true,
         "pierce": true,
         "trailChance": 1,
