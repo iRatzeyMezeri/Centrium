@@ -12,7 +12,7 @@
   "flying": false,
   "speed": 2,
   "hitSize": 8,
-  "health": 820,
+  "health": 1020,
   "armor": 3,
   "weapons": [
     {
