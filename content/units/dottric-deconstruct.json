@@ -28,7 +28,7 @@
       "bullet": {
         "type": "basicBulletType",
         "sprite": "centrium-voltaorb",
-        "damage": 42,
+        "damage": 1,
         "splashDamage": 262,
         "splashDamageRadius": 24,
         "pierce": false,
