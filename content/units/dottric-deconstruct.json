@@ -27,7 +27,7 @@
       "shootSound": "sap",
       "bullet": {
         "type": "basicBulletType",
-        "sprite": "centrium-lance",
+        "sprite": "centrium-voltaorb",
         "damage": 42,
         "splashDamage": 262,
         "splashDamageRadius": 24,
@@ -40,7 +40,7 @@
           "type": "ParticleEffect",
           "particles": 1,
           "length": 4,
-          "lifetime": 20,
+          "lifetime": 140,
           "region": "centrium-voltaorb",
           "lightColor": "8e7dcd",
           "colorFrom": "8e7dcd",
