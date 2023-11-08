@@ -1,0 +1,63 @@
+{
+  "type": "legs",
+  "outlineIcon": false,
+  "research": {
+    "parent": "dottric-assembler",
+    "requirements": [
+       "silicon/120",
+       "dottrium/100",
+       "thorium/60"
+    ],
+  },
+  "flying": false,
+  "speed": 2,
+  "hitSize": 8,
+  "health": 640,
+  "armor": 8,
+  "weapons": [
+    {
+      "name": "dottric-deconstruct-weapon",
+      "top": false,
+      "shootY": 2,
+      "reload": 60,
+      "x": 0,
+      "alternate": false,
+      "mirror": false,
+      "recoil": 1,
+      "shootSound": "sap",
+      "bullet": {
+        "type": "basicBulletType",
+        "sprite": "centrium-lance",
+        "damage": 42,
+        "splashDamage": 262,
+        "splashDamageRadius": 24,
+        "pierce": false,
+        "homing": true,
+        "homingPower": 1,
+        "homingRange": 20,
+        "trailChance": 1,
+        "trailEffect": {
+          "type": "ParticleEffect",
+          "particles": 1,
+          "length": 4,
+          "lifetime": 20,
+          "region": "centrium-voltaorb",
+          "lightColor": "8e7dcd",
+          "colorFrom": "8e7dcd",
+          "colorTo": "544891",
+          "sizeFrom": 8,
+          "sizeTo": 4
+        },
+        "speed": 2,
+        "shrinkY": 0,
+        "shrinkX": 0,
+        "width": 8,
+        "height": 8,
+        "lifetime": 140,
+        "lightColor": "8e7dcd",
+        "backColor": "8e7dcd",
+        "frontColor": "ffffff"
+      }
+    }
+  ]
+}
