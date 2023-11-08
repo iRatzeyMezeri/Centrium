@@ -15,6 +15,15 @@
         "thorium/60"
       ],
       "time": 1200
+    },
+    {
+      "unit": "dottric-deconstruct",
+      "requirements": [
+        "silicon/120",
+        "dottrium/100",
+        "thorium/60"
+      ],
+      "time": 1200
     }
   ],
   "research": "ground-factory",
