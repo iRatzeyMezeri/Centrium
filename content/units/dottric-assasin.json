@@ -27,7 +27,7 @@
       "shootSound": "sap",
       "bullet": {
         "type": "basicBulletType",
-        "sprite": "centrium-dust",
+        "sprite": "centrium-voltaorb",
         "damage": 112,
         "pierceCap": 10,
         "pierceBuilding": true,
@@ -36,9 +36,9 @@
         "trailEffect": {
           "type": "ParticleEffect",
           "particles": 1,
-          "length": 2,
+          "length": 4,
           "lifetime": 20,
-          "region": "centrium-dust",
+          "region": "centrium-voltaorb",
           "lightColor": "8e7dcd",
           "colorFrom": "8e7dcd",
           "colorTo": "544891",
@@ -50,7 +50,7 @@
         "shrinkX": 0,
         "width": 8,
         "height": 8,
-        "lifetime": 80,
+        "lifetime": 40,
         "lightColor": "8e7dcd",
         "backColor": "8e7dcd",
         "frontColor": "ffffff"
