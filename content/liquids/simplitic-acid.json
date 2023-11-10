@@ -5,7 +5,7 @@
     "viscosity": 0.5,
     "explosiveness": 0,
     "heatCapacity": 0
-    "effect": "melting",
+    "effect": "acidbreak",
     "color": "a5a79e",
     "description": "A simple acid made of Sand and Hydrogen"
 }
