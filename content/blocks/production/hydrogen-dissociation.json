@@ -1,0 +1,29 @@
+{
+  "type": "GenericCrafter",
+  "name": "Hydrogen Dissociation",
+  "desription": "Decombines water into hydrogen"
+  "drawer": {
+    "type": "DrawDefault",
+  },
+  "size": 2,
+  "hasPower": true,
+  "craftTime": 60,
+  "craftEffect": "none",
+  "updateEffect": "none",
+  "consumes": {
+    "power": 1,
+    "liquid": {
+      "liquid": "liquid-starfluid",
+      "amount": 0.3
+    }
+  },
+  "requirements": [
+    "silicon/180",
+    "graphite/160",
+    "lead/160",
+    "copper/120"
+  ],
+  "category": "crafting",
+  "research": "graphite-press",
+  "outputliquid": "hydrogen/0.2"
+}
