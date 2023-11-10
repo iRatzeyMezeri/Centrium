@@ -4,7 +4,7 @@
   "damage": 12,
   "transitionDamage": 260,
   "opposites": [
-    "spore slowed"
+    "spore-slowed"
   ],
   "affinities": [
     "acidbreak"
