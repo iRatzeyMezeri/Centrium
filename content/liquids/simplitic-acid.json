@@ -1,0 +1,11 @@
+{
+    "type": "liquid",
+    "name": "Simplitic Acid",
+    "temperature": 0,
+    "viscosity": 1,
+    "explosiveness": 0,
+    "heatCapacity": 0
+    "effect": "melting",
+    "color": "a5a79e",
+    "description": "A simple acid made of Sand and Hydrogen"
+}
