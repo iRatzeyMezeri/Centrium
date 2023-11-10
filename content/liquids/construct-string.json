@@ -5,7 +5,7 @@
     "viscosity": 0,
     "explosiveness": 0,
     "heatCapacity": 8
-    "effect": "melting",
+    "effect": "unconstructing",
     "color": "f07837",
     "description": "A dissolved form of Phase Fabric"
 }
