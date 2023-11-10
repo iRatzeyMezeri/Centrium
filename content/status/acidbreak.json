@@ -1,0 +1,12 @@
+{
+  "name": "Acidbreak",
+  "reloadMultiplier": 0.80,
+  "damage": 5,
+  "transitionDamage": 100,
+  "opposites": [
+    "spore slowed"
+  ],
+  "affinities": [
+    "acidblast"
+  ],
+}
