@@ -1,6 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Hydrogen Dissociator",
+  "health": 600,
   "desription": "Decombines water into hydrogen"
   "drawer": {
     "type": "DrawDefault",
@@ -8,7 +9,7 @@
   "size": 2,
   "hasPower": true,
   "craftTime": 60,
-  "outputsLiquid": true,
+  "OutputsLiquid": true,
   "hasLiquid": true,
   "LiquidCapacity": 30,
   "craftEffect": "none",
@@ -16,7 +17,7 @@
   "consumes": {
     "power": 1,
     "liquid": {
-      "liquid": "liquid-starfluid",
+      "liquid": "water",
       "amount": 0.3
     }
   },
