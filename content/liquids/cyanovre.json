@@ -5,7 +5,7 @@
     "viscosity": 1,
     "explosiveness": 0,
     "heatCapacity": 1
-    "effect": "melting",
+    "effect": "acidblast",
     "color": "7edbba",
     "description": "Cyanovrene Acid. An advanced form of Simplitic acid made by removing oxygen and replacing it with cyanogen"
 }
