@@ -2,7 +2,7 @@
     "type": "liquid",
     "name": "Cyanovre",
     "temperature": 0,
-    "viscosity": 3,
+    "viscosity": 1,
     "explosiveness": 0,
     "heatCapacity": 1
     "effect": "melting",
