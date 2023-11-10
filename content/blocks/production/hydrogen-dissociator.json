@@ -1,6 +1,6 @@
 {
   "type": "GenericCrafter",
-  "name": "Hydrogen Dissociation",
+  "name": "Hydrogen Dissociator",
   "desription": "Decombines water into hydrogen"
   "drawer": {
     "type": "DrawDefault",
