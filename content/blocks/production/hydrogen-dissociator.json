@@ -8,6 +8,9 @@
   "size": 2,
   "hasPower": true,
   "craftTime": 60,
+  "outputsLiquid": true,
+  "hasLiquid": true,
+  "LiquidCapacity": 30,
   "craftEffect": "none",
   "updateEffect": "none",
   "consumes": {
