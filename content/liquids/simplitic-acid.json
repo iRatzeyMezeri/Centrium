@@ -2,7 +2,7 @@
     "type": "liquid",
     "name": "Simplitic Acid",
     "temperature": 0,
-    "viscosity": 1,
+    "viscosity": 0.5,
     "explosiveness": 0,
     "heatCapacity": 0
     "effect": "melting",
