@@ -1,0 +1,12 @@
+{
+  "name": "Unconstructing",
+  "speedMultiplier": 0
+  "damage": 5,
+  "transitionDamage": 120,
+  "opposites": [
+    "overclock"
+  ],
+  "affinities": [
+    "blasted"
+  ],
+}
