@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Xenact Furnace",
-  "desription": "Melts Silicon, Plastanium and Metaglass into Xentranium"
+  "desription": "Melts Silicon, Plastanium and Metaglass into Xentranium",
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
