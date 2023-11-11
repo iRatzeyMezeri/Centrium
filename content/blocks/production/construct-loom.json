@@ -4,7 +4,15 @@
   "health": 2300,
   "desription": "Dissolves Phase fabric into its string form",
   "drawer": {
-    "type": "DrawFlame"
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFlame"
+      }
+    ]
   },
   "size": 4,
   "hasPower": true,
