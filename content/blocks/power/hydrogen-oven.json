@@ -8,7 +8,9 @@
   "hasLiquids": true,
   "powerProduction": 8,
   "updateEffect": "smeltSmoke",
-  
+  "drawer": {
+    "type": "DrawDefault"
+  },
   "consumes": {
     "liquid": {
       "liquid": "hydrogen",
