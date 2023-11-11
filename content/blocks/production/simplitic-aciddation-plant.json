@@ -16,7 +16,10 @@
   "updateEffect": "none",
   "consumes": {
     "power": 3,
-    "item": "silicon/1",
+    "items": { 
+      "item": "silicon",
+      "amount": 1
+    },
     "liquid": {
       "liquid": "hydrogen",
       "amount": 0.4
