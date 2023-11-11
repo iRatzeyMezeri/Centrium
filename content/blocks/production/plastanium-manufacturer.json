@@ -1,0 +1,30 @@
+{
+  "type": "GenericCrafter",
+  "name": "Plastanium Manufacturer",
+  "health": 1100,
+  "desription": "A better way of processing plastanium that uses Simplitic acid",
+  "size": 3,
+  "hasPower": true,
+  "craftTime": 60,
+  "liquidCapacity": 60,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "none",
+  "consumes": {
+    "power": 3,
+    "items": [ 
+      "titanium/2" 
+    ]
+    "liquids": [
+      "oil/0.2",
+      "simplitic-acid/0.1"
+    ]
+  },
+  "requirements": [
+    "thorium/240",
+    "plastanium/180",
+    "silicon/160"
+  ],
+  "category": "crafting",
+  "research": "plastanium-compressor",
+  "outputItem": "plastanium/4"
+}
