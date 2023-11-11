@@ -4,7 +4,15 @@
   "health": 600,
   "desription": "Decombines water into hydrogen"
   "drawer": {
-    "type": "DrawDefault",
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFlame"
+      }
+    ]
   },
   "size": 2,
   "hasPower": true,
@@ -29,5 +37,7 @@
   ],
   "category": "crafting",
   "research": "graphite-press",
-  "outputliquid": "hydrogen/0.2"
+  "outputliquids": [
+    "hydrogen/0.2"
+  ]
 }
