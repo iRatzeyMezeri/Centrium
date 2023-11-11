@@ -1,0 +1,25 @@
+{
+  "type": "BurnerGenerator",
+  "name": "Nitrogen Oven",
+  "description": "Burns hydrogen to get power",
+  "health": 640,
+  "size": 2,
+  "hasLiquids": true,
+  "powerProduction": 8,
+  "updateEffect": "smeltSmoke",
+  
+  "consumes": {
+    "liquid": {
+      "liquid": "hydrogen",
+      "amount": 0.2
+    }
+  },
+  "requirements": [
+    "silicon/180",
+    "graphite/160",
+    "lead/160",
+    "copper/120"
+  ],
+  "category": "power",
+  "research": "steam-generator"
+}
