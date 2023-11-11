@@ -1,0 +1,38 @@
+{
+  "type": "GenericCrafter",
+  "name": "Cosmic Anvil",
+  "health": 3600,
+  "desription": "Constructs an ultimate material. [purple] Do you need to be that strong?",
+  "drawer": {
+    "type": "DrawFlame"
+  },
+  "size": 5,
+  "hasPower": true,
+  "craftTime": 60,
+  "hasLiquids": true,
+  "liquidCapacity": 100,
+  "craftEffect": "none",
+  "updateEffect": "none",
+  "consumes": {
+    "power": 14,
+    "items": [ 
+      "dottrium/3",
+      "ernium/1"
+    ]
+    "liquid": {
+      "liquid": "liquid-starfluid",
+      "amount": 0.5
+    }
+  },
+  "requirements": [
+    "ernium/240",
+    "dottrium/440",
+    "surge-alloy/440",
+    "thorium/320",
+    "metaglass/180",
+    "graphite/200"
+  ],
+  "category": "crafting",
+  "research": "surge-smelter",
+  "outputItem": "cosmiitum-alloy/2"
+}
