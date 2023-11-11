@@ -14,7 +14,7 @@
   "craftEffect": "none",
   "updateEffect": "none",
   "consumes": {
-    "power": 14,
+    "power": 28,
     "items": [ 
       "dottrium/3",
       "ernium/1"
