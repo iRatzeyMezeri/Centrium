@@ -1,6 +1,6 @@
 {
-  "type": "BurnerGenerator",
-  "name": "Nitrogen Oven",
+  "type": "SingleTypeGenerator",
+  "name": "Hydrogen Oven",
   "description": "Burns hydrogen to get power",
   "health": 640,
   "size": 2,
