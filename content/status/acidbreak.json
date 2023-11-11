@@ -1,8 +1,8 @@
 {
   "name": "Acidbreak",
   "reloadMultiplier": 0.80,
-  "damage": 5,
-  "transitionDamage": 100,
+  "damage": 2,
+  "transitionDamage": 40,
   "opposites": [
     "spore-slowed"
   ],
