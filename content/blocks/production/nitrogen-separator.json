@@ -2,7 +2,7 @@
   "type": "GenericCrafter",
   "name": "Nitrogen Separator",
   "health": 800,
-  "desription": "Separates Nitrogen from air"
+  "desription": "Separates Nitrogen from air",
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
