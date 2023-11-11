@@ -1,0 +1,38 @@
+{
+  "type": "GenericCrafter",
+  "name": "Cyanovre Synthesis Plant",
+  "health": 1400,
+  "desription": "Combines Nitrogen, Graphite and Simplitic acid into Cyanovre",
+  "drawer": {
+    "type": "DrawFlame"
+  },
+  "size": 3,
+  "hasPower": true,
+  "craftTime": 60,
+  "OutputsLiquid": true,
+  "hasLiquids": true,
+  "liquidCapacity": 80,
+  "craftEffect": "none",
+  "updateEffect": "none",
+  "consumes": {
+    "power": 8,
+    "items": [ 
+      "graphite/2" 
+    ],
+    "liquids": [
+      "nitrogen/0.1",
+      "simplitic-acid/0.2"
+    ]
+  },
+  "requirements": [
+    "thorium/180",
+    "plastanium/140",
+    "metaglass/120",
+    "silicon/160"
+  ],
+  "category": "crafting",
+  "research": "simplitic-aciddation-plant",
+  "outputLiquids": [
+    "cyanovre/0.4"
+  ]
+}
