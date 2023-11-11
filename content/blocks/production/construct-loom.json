@@ -25,11 +25,10 @@
   },
   "requirements": [
     "surge-alloy/120",
-    "phase-fabric/80",
-    "thorium/110",
-    "plastanium/140",
-    "metaglass/120",
-    "silicon/160"
+    "phase-fabric/120",
+    "thorium/150",
+    "metaglass/180",
+    "silicon/240"
   ],
   "category": "crafting",
   "research": "simplitic-aciddation-plant",
