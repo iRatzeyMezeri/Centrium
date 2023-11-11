@@ -2,7 +2,7 @@
   "type": "GenericCrafter",
   "name": "Hydrogen Dissociator",
   "health": 600,
-  "desription": "Decombines water into hydrogen"
+  "desription": "Decombines water into hydrogen",
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
