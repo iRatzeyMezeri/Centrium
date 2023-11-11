@@ -10,8 +10,8 @@
   "hasPower": true,
   "craftTime": 60,
   "OutputsLiquid": true,
-  "hasLiquid": true,
-  "LiquidCapacity": 30,
+  "hasLiquids": true,
+  "liquidCapacity": 30,
   "craftEffect": "none",
   "updateEffect": "none",
   "consumes": {
