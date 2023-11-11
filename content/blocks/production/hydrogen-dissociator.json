@@ -37,7 +37,8 @@
   ],
   "category": "crafting",
   "research": "graphite-press",
-  "outputliquids": [
+  "outputItem": "none",
+  "outputLiquids": [
     "hydrogen/0.2"
   ]
 }
