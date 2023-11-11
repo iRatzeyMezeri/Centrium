@@ -1,9 +1,10 @@
 {
-  "type": "SingleTypeGenerator",
+  "type": "ConsumeGenerator",
   "name": "Hydrogen Oven",
   "description": "Burns hydrogen to get power",
   "health": 640,
   "size": 2,
+  "hasPower": true,
   "hasLiquids": true,
   "powerProduction": 8,
   "updateEffect": "smeltSmoke",
