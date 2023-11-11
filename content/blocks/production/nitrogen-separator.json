@@ -1,0 +1,40 @@
+{
+  "type": "GenericCrafter",
+  "name": "Nitrogen Separator",
+  "health": 800,
+  "desription": "Separates Nitrogen from air"
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFlame"
+      }
+    ]
+  },
+  "size": 2,
+  "hasPower": true,
+  "craftTime": 60,
+  "OutputsLiquid": true,
+  "hasLiquids": true,
+  "liquidCapacity": 60,
+  "craftEffect": "none",
+  "updateEffect": "none",
+  "consumes": {
+    "power": 3
+  },
+  "requirements": [
+    "silicon/220",
+    "titanium/180",
+    "metaglass/80",
+    "graphite/80",
+    "lead/80"
+  ],
+  "category": "crafting",
+  "research": "hydrogen-dissociator",
+  "outputLiquids": [
+    "nitrogen/0.3"
+  ]
+}
