@@ -4,7 +4,7 @@
   "health": 800,
   "desription": "Combines Silicon and Hydrogen into Simplitic Acid",
   "drawer": {
-    "type": "DrawDefault"
+    "type": "DrawFlame"
   },
   "size": 2,
   "hasPower": true,
