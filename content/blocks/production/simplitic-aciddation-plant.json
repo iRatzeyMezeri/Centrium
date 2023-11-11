@@ -2,7 +2,7 @@
   "type": "GenericCrafter",
   "name": "Simplitic Accidation Plant",
   "health": 800,
-  "desription": "Combines Silicon and Hydrogen into Simplitic Acid"
+  "desription": "Combines Silicon and Hydrogen into Simplitic Acid",
   "drawer": {
     "type": "DrawDefault"
   },
@@ -16,10 +16,9 @@
   "updateEffect": "none",
   "consumes": {
     "power": 3,
-    "items": { 
-      "item": "silicon",
-      "amount": 1
-    },
+    "items": [ 
+      "silicon/1" 
+    ]
     "liquid": {
       "liquid": "hydrogen",
       "amount": 0.4
