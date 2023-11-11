@@ -1,0 +1,39 @@
+{
+  "type": "GenericCrafter",
+  "name": "Construct Loom",
+  "health": 2300,
+  "desription": "Dissolves Phase fabric into its string form",
+  "drawer": {
+    "type": "DrawFlame"
+  },
+  "size": 4,
+  "hasPower": true,
+  "craftTime": 60,
+  "OutputsLiquid": true,
+  "hasLiquids": true,
+  "liquidCapacity": 80,
+  "craftEffect": "none",
+  "updateEffect": "none",
+  "consumes": {
+    "power": 10,
+    "items": [ 
+      "phase-fabric/1" 
+    ],
+    "liquids": [
+      "nitrogen/0.3"
+    ]
+  },
+  "requirements": [
+    "surge-alloy/120",
+    "phase-fabric/80",
+    "thorium/110",
+    "plastanium/140",
+    "metaglass/120",
+    "silicon/160"
+  ],
+  "category": "crafting",
+  "research": "simplitic-aciddation-plant",
+  "outputLiquids": [
+    "construct-string/0.2"
+  ]
+}
