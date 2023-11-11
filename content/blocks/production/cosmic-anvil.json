@@ -4,7 +4,15 @@
   "health": 3600,
   "desription": "Constructs an ultimate material. [purple] Do you need to be that strong?",
   "drawer": {
-    "type": "DrawFlame"
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFlame"
+      }
+    ]
   },
   "size": 5,
   "hasPower": true,
