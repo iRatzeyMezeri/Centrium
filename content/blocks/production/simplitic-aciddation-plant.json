@@ -1,0 +1,36 @@
+{
+  "type": "GenericCrafter",
+  "name": "Simplitic Accidation Plant",
+  "health": 800,
+  "desription": "Combines Silicon and Hydrogen into Simplitic Acid"
+  "drawer": {
+    "type": "DrawDefault"
+  },
+  "size": 2,
+  "hasPower": true,
+  "craftTime": 60,
+  "OutputsLiquid": true,
+  "hasLiquids": true,
+  "liquidCapacity": 60,
+  "craftEffect": "none",
+  "updateEffect": "none",
+  "consumes": {
+    "power": 3,
+    "item": "silicon/1",
+    "liquid": {
+      "liquid": "hydrogen",
+      "amount": 0.4
+    }
+  },
+  "requirements": [
+    "titanium/220",
+    "metaglass/180",
+    "silicon/160",
+    "lead/160"
+  ],
+  "category": "crafting",
+  "research": "hydrogen-dissociator",
+  "outputLiquids": [
+    "simplitic-acid/0.3"
+  ]
+}
