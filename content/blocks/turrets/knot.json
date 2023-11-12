@@ -1,0 +1,49 @@
+{
+  "type": "LiquidTurret",
+  "name": "Knot",
+  "description": "Shoots out phase crescents at air enemies",
+  "outlineIcon": false,
+  "size": 4,
+  "targetAir": true,
+  "targetGround": false,
+  "recoil": 20,
+  "hasLiquids": true,
+  "health": 3200,
+  "shootY": 6,
+  "range": 320,
+  "rotateSpeed": 4,
+  "shootSound": "shotgun",
+  "consumes": {
+    "power": 6,
+  },
+  "hasPower": true,
+  "ammoTypes": {
+    "construct-string": {
+      "type": "BasicBulletType",
+      "sprite": "centrium-phase-crescent",
+      "absorbable": true,
+      "shrinkY": 0.1,
+      "shrinkX": 0.1,
+      "speed": 10,
+      "trailColor": "db511f80",
+      "trailLength": 10,
+      "trailWidth": 2,
+      "lifetime": 32,
+      "damage": 340,
+      "height": 13,
+      "width": 16,
+      "homingPower": 0.2,
+      "homingRange": 10,
+      "frontColor": "ffd37f",
+      "backColor": "db511f"
+  },
+  },
+  "requirements": [
+    "phase-fabric/200",
+    "silicon/250",
+    "thorium/150",
+    "plastanium/100"
+  ],
+  "category": "turret",
+  "research": "oxidation"
+}
