@@ -29,8 +29,8 @@
     "liquid-starfluid": {
       "type": "ContinuousFlameBulletType",
       "colors": ["3097a950", "3097a9", "6ec9d9", "beecf4", "ffffff"],
-      "flareWidth": 14,
-      "flareLength": 84,
+      "flareWidth": 6,
+      "flareLength": 44,
       "flareColor": "beecf4",
       "length": 220,
       "status": "centrium-starlight-mayhem",
