@@ -1,0 +1,33 @@
+{
+  "type": "ContinuousLiquidTurret",
+  "name": "Asterisk",
+  "description": "Shoots a beam of cosmic plasm at yoru enemies",
+  "outlineIcon": false,
+  "size": 5,
+  "recoilTime": 60,
+  "health": 8200,
+  "range": 240,
+  "rotateSpeed": 4,
+  "shootSound": "laserbeam",
+  "consumes": {
+    "power": 12
+  },
+  "hasPower": true,
+  "shootType": {
+  "type": "ContinuousFlameBulletType",
+  "colors": ["3097a950", "3097a9", "6ec9d9", "beecf4", "ffffff"],
+  "damage": 400,
+  "knockback": 3,
+  "width": 13,
+  "drawFlare": false,
+  "lifetime": 70,
+  },
+  "requirements": [
+    "cosmiitum-alloy/400",
+    "surge-alloy/400",
+    "phase-fabric/350",
+    "silicon/350"
+  ],
+  "category": "turret",
+  "research": "volt"
+}
