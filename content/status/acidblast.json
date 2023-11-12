@@ -1,8 +1,8 @@
 {
   "name": "Acidblast",
   "reloadMultiplier": 0.40,
-  "damage": 6,
-  "transitionDamage": 180,
+  "damage": 3,
+  "transitionDamage": 80,
   "opposites": [
     "spore-slowed"
   ],
