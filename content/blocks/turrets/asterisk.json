@@ -18,20 +18,20 @@
     "nitrogen": {
       "type": "ContinuousFlameBulletType",
       "colors": ["db77d850", "db77d8", "e7aae5", "f4d9f3", "ffffff"],
-      "damage": 300,
+      "damage": 80,
       "knockback": 0,
-      "width": 13,
+      "width": 6,
       "drawFlare": false,
-      "lifetime": 70,
+      "lifetime": 140,
     },
     "liquid-starfluid": {
       "type": "ContinuousFlameBulletType",
       "colors": ["3097a950", "3097a9", "6ec9d9", "beecf4", "ffffff"],
-      "damage": 500,
+      "damage": 140,
       "knockback": 0,
-      "width": 13,
+      "width": 6,
       "drawFlare": false,
-      "lifetime": 120,
+      "lifetime": 240,
     }
   },
   "requirements": [
