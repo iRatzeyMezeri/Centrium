@@ -7,7 +7,8 @@
   "recoilTime": 120,
   "hasLiquids": true,
   "health": 8200,
-  "range": 240,
+  "shootY": 9,
+  "range": 120,
   "rotateSpeed": 4,
   "shootSound": "laserbeam",
   "consumes": {
@@ -27,6 +28,10 @@
     "liquid-starfluid": {
       "type": "ContinuousFlameBulletType",
       "colors": ["3097a950", "3097a9", "6ec9d9", "beecf4", "ffffff"],
+      "flareWidth": 4,
+      "flareLength": 14,
+      "flareColor": "beecf4",
+      "length": 180,
       "status": "centrium-starlight-mayhem",
       "statusDuration": 120,
       "damage": 90,
