@@ -13,7 +13,7 @@
   "explosionRadius": 80,
   "explosionDamage": 6400,
   "hasLiquids": true,
-  "powerProduction": 220,
+  "powerProduction": 480,
   "itemDuration": 300,
   "heating": 0.01,
   "smokeThreshold": 1,
