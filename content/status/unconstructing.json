@@ -1,7 +1,7 @@
 {
   "name": "Unconstructing",
   "speedMultiplier": 0
-  "damage": 5,
+  "damage": 1,
   "transitionDamage": 120,
   "opposites": [
     "overclock"
