@@ -1,0 +1,38 @@
+{
+  "type": "LiquidTurret",
+  "name": "Oxidation",
+  "description": "a turret apable of blasting large amounts of cyanovre at once.",
+  "outlineIcon": false,
+  "size": 3,
+  "health": 720,
+  "reload": 60,
+  "range": 220,
+  "inaccuracy": 0,
+  "recoil": 10,
+  "rotateSpeed": 4,
+  "shootSound": "shotgun",
+  "ammoTypes": {
+    "cyanovre": {
+      "type": "shrapnelBulletType",
+      "lifetime": 20,
+      "damage": 80,
+      "status": "centrium-acidblast",
+      "statusDuration": 240,
+      "serrations": 4,
+      "fromColor": "87e3d7",
+      "toColor": "dffff4",
+      "length": 120,
+      "width": 10,
+      "hitEffect": "blastExplosion",
+      "shootEffect": "blastExplosion",
+      "pierce": true,
+      "smokeEffect": "hitBulletBig"
+    }
+  "requirements": [
+    "thorium/160",
+    "silicon/120",
+    "graphite/120"
+  ],
+  "category": "turret",
+  "research": "wave"
+}
