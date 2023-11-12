@@ -3,7 +3,7 @@
     "name": "Starfluid",
     "temperature": 2,
     "viscosity": 0,
-    "explosiveness": 2,
+    "explosiveness": 1,
     "heatCapacity": 4
     "effect": "starlight-mayhem",
     "color": "0c0f83",
