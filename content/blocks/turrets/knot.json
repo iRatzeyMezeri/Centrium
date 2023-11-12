@@ -14,7 +14,7 @@
   "shootY": 6,
   "range": 320,
   "rotateSpeed": 4,
-  "shootSound": "shotgun",
+  "shootSound": "sap",
   "consumes": {
     "power": 12,
   },
