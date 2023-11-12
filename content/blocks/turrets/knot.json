@@ -7,7 +7,8 @@
   "targetAir": true,
   "targetGround": false,
   "inaccuracy": 15,
-  "recoil": 20,
+  "recoil": 2,
+  "reload": 1.5,
   "hasLiquids": true,
   "health": 3200,
   "shootY": 6,
@@ -28,7 +29,7 @@
       "speed": 10,
       "trailColor": "db511f80",
       "trailLength": 10,
-      "trailWidth": 16,
+      "trailWidth": 10,
       "lifetime": 32,
       "damage": 340,
       "height": 13,
@@ -37,7 +38,7 @@
       "homingRange": 10,
       "frontColor": "ffffff",
       "backColor": "db511f"
-  },
+    },
   },
   "requirements": [
     "phase-fabric/200",
