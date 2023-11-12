@@ -1,0 +1,39 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Construct Blast Generator",
+  "description": "Uses a reaction between construct strings and surge alloy to make power",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFlame"
+      }
+    ]
+  },
+  "health": 2700,
+  "size": 4,
+  "hasPower": true,
+  "hasLiquids": true,
+  "powerProduction": 52,
+  "updateEffect": "none",
+  "consumes": {
+    "item": "surge-alloy/2",
+    "liquid": {
+      "liquid": "construct-string",
+      "amount": 0.4
+    }
+  },
+  "requirements": [
+    "dottrium/240",
+    "surge-alloy/400",
+    "phase-fabric/220",
+    "thorium/180",
+    "silicon/180",
+    "lead/180"
+  ],
+  "category": "power",
+  "research": "rtg-generator"
+}
