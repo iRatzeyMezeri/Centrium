@@ -8,7 +8,7 @@
   "targetGround": false,
   "inaccuracy": 15,
   "recoil": 2,
-  "reload": 1.5,
+  "reload": 3,
   "hasLiquids": true,
   "health": 3200,
   "shootY": 6,
@@ -16,7 +16,7 @@
   "rotateSpeed": 4,
   "shootSound": "shotgun",
   "consumes": {
-    "power": 6,
+    "power": 12,
   },
   "hasPower": true,
   "ammoTypes": {
