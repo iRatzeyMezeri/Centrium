@@ -8,7 +8,7 @@
   "hasLiquids": true,
   "health": 8200,
   "shootY": 14,
-  "range": 120,
+  "range": 180,
   "rotateSpeed": 4,
   "shootSound": "laserbeam",
   "consumes": {
@@ -24,7 +24,7 @@
       "width": 6,
       "drawFlare": true,
       "lifetime": 140,
-      "length": 120,
+      "length": 180,
     },
     "liquid-starfluid": {
       "type": "ContinuousFlameBulletType",
@@ -32,7 +32,7 @@
       "flareWidth": 6,
       "flareLength": 44,
       "flareColor": "beecf4",
-      "length": 220,
+      "length": 320,
       "status": "centrium-starlight-mayhem",
       "statusDuration": 120,
       "damage": 90,
