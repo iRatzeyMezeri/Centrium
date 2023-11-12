@@ -11,6 +11,8 @@
   "shootSound": "laserbeam",
   "consumes": {
     "power": 12
+    "liquids": [
+      "nitrogen/0.3"
   },
   "hasPower": true,
   "shootType": {
