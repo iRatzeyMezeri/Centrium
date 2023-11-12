@@ -9,7 +9,7 @@
   "hasLiquids": true,
   "health": 3200,
   "shootY": 6,
-  "range": 440,
+  "range": 320,
   "rotateSpeed": 4,
   "shootSound": "laserbeam",
   "consumes": {
@@ -21,7 +21,7 @@
       "type": "ContinuousFlameBulletType",
       "colors": ["db511f50", "fda959", "ffd37f", "fbeab5", "ffffff"],
       "drawFlare": false,
-      "length": 440,
+      "length": 320,
       "status": "centrium-unconstructing",
       "statusDuration": 60,
       "damage": 80,
