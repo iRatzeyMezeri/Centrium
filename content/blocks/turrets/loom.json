@@ -1,0 +1,41 @@
+{
+  "type": "ContinuousLiquidTurret",
+  "name": "Loom",
+  "description": "Shoots out construct strings that obliterate your enemies",
+  "outlineIcon": false,
+  "size": 4,
+  "targetAir": false,
+  "recoilTime": 120,
+  "hasLiquids": true,
+  "health": 3200,
+  "shootY": 6,
+  "range": 640,
+  "rotateSpeed": 4,
+  "shootSound": "laserbeam",
+  "consumes": {
+    "power": 12,
+  },
+  "hasPower": true,
+  "ammoTypes": {
+    "construct-string": {
+      "type": "ContinuousFlameBulletType",
+      "colors": ["db511f50", "fda959", "ffd37f", "fbeab5", "ffffff"],
+      "drawFlare": false,
+      "length": 640,
+      "status": "centrium-unconstructing",
+      "statusDuration": 60,
+      "damage": 40,
+      "knockback": 0,
+      "width": 3,
+      "lifetime": 240,
+    }
+  },
+  "requirements": [
+    "phase-fabric/200",
+    "silicon/250",
+    "thorium/150",
+    "plastanium/100"
+  ],
+  "category": "turret",
+  "research": "oxidation"
+}
