@@ -19,7 +19,7 @@
     "nitrogen": {
       "type": "ContinuousFlameBulletType",
       "colors": ["db77d850", "db77d8", "e7aae5", "f4d9f3", "ffffff"],
-      "damage": 240,
+      "damage": 160,
       "knockback": 0,
       "width": 6,
       "drawFlare": true,
@@ -32,7 +32,7 @@
       "flareWidth": 6,
       "flareLength": 44,
       "flareColor": "beecf4",
-      "length": 320,
+      "length": 220,
       "status": "centrium-starlight-mayhem",
       "statusDuration": 120,
       "damage": 540,
