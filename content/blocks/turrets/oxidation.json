@@ -28,6 +28,7 @@
       "pierce": true,
       "smokeEffect": "hitBulletBig"
     }
+  }
   "requirements": [
     "thorium/160",
     "silicon/120",
