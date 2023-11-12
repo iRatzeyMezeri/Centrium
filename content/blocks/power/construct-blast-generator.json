@@ -20,7 +20,9 @@
   "powerProduction": 52,
   "updateEffect": "none",
   "consumes": {
-    "item": "surge-alloy/2",
+    "items": [
+      "surge-alloy/2"
+    ],
     "liquid": {
       "liquid": "construct-string",
       "amount": 0.4
