@@ -17,7 +17,7 @@
   "size": 4,
   "hasPower": true,
   "hasLiquids": true,
-  "powerProduction": 162,
+  "powerProduction": 202,
   "updateEffect": "none",
   "consumes": {
     "items": [
