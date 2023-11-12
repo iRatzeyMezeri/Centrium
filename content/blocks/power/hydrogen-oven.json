@@ -6,7 +6,7 @@
   "size": 2,
   "hasPower": true,
   "hasLiquids": true,
-  "powerProduction": 3,
+  "powerProduction": 8,
   "updateEffect": "smeltSmoke",
   "drawer": {
     "type": "DrawDefault"
