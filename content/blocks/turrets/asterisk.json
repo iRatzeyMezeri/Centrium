@@ -1,10 +1,11 @@
 {
   "type": "ContinuousLiquidTurret",
   "name": "Asterisk",
-  "description": "Shoots a beam of cosmic plasm at yoru enemies",
+  "description": "Shoots a beam of cosmic plasma at your enemies",
   "outlineIcon": false,
   "size": 5,
   "recoilTime": 60,
+  "hasLiquids": true,
   "health": 8200,
   "range": 240,
   "rotateSpeed": 4,
