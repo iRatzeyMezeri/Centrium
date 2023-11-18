@@ -8,10 +8,10 @@
   },
   "plans": [
     {
-      "unit": "dottric-assasin",
+      "unit": "thoric-assasin",
       "requirements": [
-        "silicon/120",
-        "dottrium/100",
+        "silicon/80",
+        "metaglass/60",
         "thorium/60"
       ],
       "time": 1200
