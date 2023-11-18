@@ -1,19 +1,19 @@
 {
-  "name": "Dottric Assasin",
+  "name": "Thoric Assasin",
   "type": "legs",
   "outlineIcon": false,
   "research": {
     "parent": "dottric-assembler",
     "requirements": [
-       "silicon/120",
-       "dottrium/100",
+       "silicon/80",
+       "metaglass/40",
        "thorium/60"
     ],
   },
   "flying": false,
   "speed": 3,
   "hitSize": 8,
-  "health": 1020,
+  "health": 620,
   "armor": 3,
   "weapons": [
     {
@@ -29,7 +29,7 @@
       "bullet": {
         "type": "basicBulletType",
         "sprite": "centrium-voltaorb",
-        "damage": 142,
+        "damage": 82,
         "pierceBuilding": true,
         "pierce": true,
         "trailChance": 1,
