@@ -5,9 +5,9 @@
   "research": {
     "parent": "dottric-assembler",
     "requirements": [
-       "silicon/80",
-       "metaglass/40",
-       "thorium/60"
+        "silicon/80",
+        "metaglass/60",
+        "thorium/60"
     ],
   },
   "flying": false,
