@@ -7,8 +7,7 @@
 "parent": "navalFortress",
 "objectives": [
 "chasm-drill",
-"xenact-furnace",
-"dottric-assembler"
+"xenact-furnace"
 ]
 }
 }
