@@ -1,5 +1,5 @@
 {
-  "type": "StaticWall",
+  "type": "Wall",
   "size": 2,
   "variants": 3
 }
